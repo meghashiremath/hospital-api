@@ -7,15 +7,15 @@ Run npm start to ignite the project.
 Use Postman to test the api.
 
 # Routes
-Register a Doctor: [POST]: /api/v1/doctor/register
+Register a Doctor: [POST]: /api/v1/doctor/register  
 
-Login for Doctor: [POST]: /api/v1/doctor/login
+Login for Doctor: [POST]: /api/v1/doctor/login  
 
-Register a patient: [POST]: /api/v1/patient/register
+Register a patient: [POST]: /api/v1/patient/register  
 
-Create Patient report: [POST]: /api/v1/patient/:id/create_report
+Create Patient report: [POST]: /api/v1/patient/:id/create_report    
 
-Fetch All Reports of a Patient [GET]: /api/v1/patient/:id/all_reports
+Fetch All Reports of a Patient [GET]: /api/v1/patient/:id/all_reports  
 
 Fetch All Reports Based on a Status: [GET]: /api/v1/report/:status
 
